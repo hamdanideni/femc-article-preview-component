@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/hamdanideni/femc-article-preview-component](https://github.com/hamdanideni/femc-article-preview-component)
+- Live Site URL: [https://hamdanideni.github.io/femc-article-preview-component/](https://hamdanideni.github.io/femc-article-preview-component/)
 
 ## Author
 
